@@ -37,6 +37,6 @@ Jie Tan, Hanhua Chen, Yonghui Wang, Hai Jin, "Whale: Efficient One-to-Many Data
 ([bibtex](https://github.com/CGCL-codes/WhaleRDMAChannel/blob/master/Whale.bib))
 
 ### Authors and Copyright
-Whale is developed in National Engineering Research Center for Big Data Technology and System, Cluster and Grid Computing Lab, Services Computing Technology and System Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China by Jie Tan (tjmaster@hust.edu.cn), Hanhua Chen (chen@hust.edu.cn), Yonghui Wang (yhw@hust.edu.cn), Hai Jin (hjin@hust.edu.cn).
+WhaleRDMAChannel is developed in National Engineering Research Center for Big Data Technology and System, Cluster and Grid Computing Lab, Services Computing Technology and System Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China by Jie Tan (tjmaster@hust.edu.cn), Hanhua Chen (chen@hust.edu.cn), Yonghui Wang (yhw@hust.edu.cn), Hai Jin (hjin@hust.edu.cn).
 
 Copyright (C) 2021, [STCS & CGCL](grid.hust.edu.cn) and [Huazhong University of Science and Technology](www.hust.edu.cn).
