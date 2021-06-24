@@ -1,5 +1,5 @@
-# RdmaChannel
-RDMA Channel:A Channel-Oriented RDMA Java Communication Framework. More high-level abstract Channel API on top of RDMA verbs.
+# WhaleRdmaChannel
+Whale RDMA Channel:A Channel-Oriented RDMA Java Communication Framework. More high-level abstract Channel API on top of RDMA verbs.
 
 1. rdmaWriteInQueue operation
 2. rdmaSendInQueue operation
